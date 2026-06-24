@@ -33,7 +33,7 @@ Currently building a fast-paced, highly optimized Arena Shooter heavily inspired
 * Physics-driven custom movement (Frictionless sliding, dual air-dashes, slope-momentum).
 * Implementation of Niagara VFX (Weapon beams, dynamic scaling AoE explosions) via C++ parameters.
 
-👉 **Check out the C++ architecture and gameplay here:** (https://github.com/Chaitanya-k47/HordeShooter.git)
+👉 Check out the C++ architecture and gameplay in the [HordeShooter repository](https://github.com/Chaitanya-k47/HordeShooter).
 
 ---
 
