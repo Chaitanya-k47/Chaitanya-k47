@@ -33,13 +33,14 @@ Currently building a fast-paced, highly optimized Arena Shooter heavily inspired
 * Physics-driven custom movement (Frictionless sliding, dual air-dashes, slope-momentum).
 * Implementation of Niagara VFX (Weapon beams, dynamic scaling AoE explosions) via C++ parameters.
 
-👉 **Check out the C++ architecture and gameplay here:** (https://github.com/Chaitanya-k47/HordeShooter.git)
+👉 **Check out the C++ architecture and gameplay here:** https://github.com/Chaitanya-k47/HordeShooter.git
 
 ---
 
 🤝 **I am currently looking to collaborate on Game Dev projects in UE5!** If you need a dedicated C++ programmer to bring your mechanics to life, let's talk.
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Insert your LinkedIn Link here)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](Insert your Insta link here)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/YOUR_DISCORD_ID_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/
+chaitanya-kolhe-104191277
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]https://www.instagram.com/chaiwithchaii/
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]https://discordapp.com/users/1007730080656674936
