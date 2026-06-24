@@ -28,7 +28,10 @@ While my heart is in programming and backend logic, I have a strong interest in 
 
 **AI-nimate: Text-to-Motion UE5 Plugin (B.Tech Final Year Project)**
 An Unreal Engine 5 Editor Plugin that generates skeletal animations directly from text prompts. Built to showcase Engine API knowledge, animation programming, and external tool integration inside the UE5 Editor.
+
 👉 Source Code: [AI-nimate repository](https://github.com/Chaitanya-k47/AI-nimate.git).
+
+---
 
 ### 🚀 Current Focus: Horde Shooter
 Currently building a fast-paced, highly optimized Arena Shooter heavily inspired by *ULTRAKILL* and *DOOM*. 
